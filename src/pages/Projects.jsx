@@ -7,9 +7,9 @@ export default function Projects() {
         <p className="eyebrow mono">Selected work</p>
         <h1 style={{ maxWidth: '20ch' }}>Projects</h1>
         <p className="lede">
-          Four systems, mostly Spring Boot on the backend — spanning productivity tracking, media
-          discovery, a visual AI pipeline builder, and a computer vision model trained from
-          scratch.
+          A mix of full-stack systems and front-end apps — spanning productivity tracking, media
+          discovery, a visual AI pipeline builder, a computer vision model trained from scratch,
+          and a handful of live data dashboards for weather, stocks, crypto, and movies.
         </p>
       </section>
 
@@ -28,7 +28,7 @@ export default function Projects() {
                 ))}
               </ul>
               <a className="project-link" href={project.link} target="_blank" rel="noopener noreferrer">
-                View on GitHub &rarr;
+                {project.link.includes('github.com') ? 'View on GitHub' : 'View Live Demo'} &rarr;
               </a>
             </div>
           </div>
