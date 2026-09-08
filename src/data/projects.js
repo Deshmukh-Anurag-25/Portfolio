@@ -44,4 +44,44 @@ export const projects = [
     ],
     link: 'https://github.com/Deshmukh-Anurag-25',
   },
+  {
+    name: 'Weather Station',
+    stack: 'React · Weather API',
+    status: 'complete',
+    bullets: [
+      'Real-time weather dashboard showing current conditions and forecasts for searched locations.',
+      'Clean, responsive UI for quickly scanning temperature, conditions, and other at-a-glance weather data.',
+    ],
+    link: 'https://weather-dashboard-a4wc-4ztgpqar4.vercel.app/',
+  },
+  {
+    name: 'Stock Dashboard',
+    stack: 'React · Market Data API',
+    status: 'complete',
+    bullets: [
+      'Stock market dashboard for tracking ticker prices and trends in a simple, glanceable layout.',
+      'Search and view functionality for pulling up quotes and historical performance on demand.',
+    ],
+    link: 'https://mystock1.netlify.app/',
+  },
+  {
+    name: 'CoinBoard',
+    stack: 'React · Crypto Market API',
+    status: 'complete',
+    bullets: [
+      'Cryptocurrency tracking dashboard showing live prices and market movement across coins.',
+      'Searchable, sortable coin list built for quickly comparing prices and trends.',
+    ],
+    link: 'https://cryptracky.netlify.app/',
+  },
+  {
+    name: 'CineSearch',
+    stack: 'React · Movie Database API',
+    status: 'complete',
+    bullets: [
+      'Movie discovery app for searching titles and browsing details like ratings, cast, and synopsis.',
+      'Responsive search-driven UI for quickly finding and exploring films.',
+    ],
+    link: 'https://cinemasearch1.netlify.app/',
+  },
 ];
