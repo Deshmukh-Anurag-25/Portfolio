@@ -31,7 +31,8 @@ export const projects = [
       'Trained on the DIV2K dataset with PyTorch and CUDA acceleration, combining pixel-wise L1, VGG19-based perceptual loss, and adversarial loss.',
       'Flask REST API for asynchronous enhancement jobs and a React.js frontend with drag-and-drop upload, live processing status, and side-by-side PSNR/SSIM comparisons.',
     ],
-    link: 'https://github.com/Deshmukh-Anurag-25/SuperResolutionImageGenerator',
+    link: 'https://github.com/Deshmukh-Anurag-25/ImageEnhancer',
+    link: 'https://enhance0io.streamlit.app'
   },
   {
     name: 'Weather Station',
