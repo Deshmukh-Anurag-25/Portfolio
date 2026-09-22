@@ -41,7 +41,7 @@ export const projects = [
       'Real-time weather dashboard showing current conditions and forecasts for searched locations.',
       'Clean, responsive UI for quickly scanning temperature, conditions, and other at-a-glance weather data.',
     ],
-    link: 'https://weather-dashboard-a4wc-4ztgpqar4.vercel.app/',
+    link: 'https://weatherboard25.netlify.app/',
   },
   {
     name: 'Stock Dashboard',
