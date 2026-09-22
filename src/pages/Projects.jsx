@@ -7,9 +7,9 @@ export default function Projects() {
         <p className="eyebrow mono">Selected work</p>
         <h1 style={{ maxWidth: '20ch' }}>Projects</h1>
         <p className="lede">
-          A mix of full-stack systems and front-end apps — spanning productivity tracking, media
-          discovery, a visual AI pipeline builder, a computer vision model trained from scratch,
-          and a handful of live data dashboards for weather, stocks, crypto, and movies.
+          A mix of full-stack systems and front-end apps — spanning media discovery, event-driven
+          blogging infrastructure, a computer vision model trained from scratch, and a handful of
+          live data dashboards for weather, stocks, crypto, and movies.
         </p>
       </section>
 
