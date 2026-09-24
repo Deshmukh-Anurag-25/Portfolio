@@ -1,6 +1,6 @@
 export const projects = [
   {
-    name: 'MediaHub',
+    name: 'Critiq',
     stack: 'Spring Boot · React · PostgreSQL · Elasticsearch · Redis',
     status: 'in progress',
     bullets: [
@@ -8,7 +8,7 @@ export const projects = [
       'Relational schema modeling complex one-to-many and many-to-many relationships for reviews, ratings, and user-generated content at scale.',
       'Full-text search with Elasticsearch and Redis-based caching for trending and recommendation features; JWT/OAuth2 auth planned.',
     ],
-    link: 'https://github.com/Deshmukh-Anurag-25',
+    link: 'https://github.com/Deshmukh-Anurag-25/Critiq',
   },
   {
     name: 'BlogSphere',
