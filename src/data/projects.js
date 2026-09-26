@@ -34,6 +34,18 @@ export const projects = [
     link: 'https://enhance0io.streamlit.app',
   },
   {
+    name: 'Scriptor',
+    stack: 'React · Vite · JavaScript · LocalStorage',
+    status: 'complete',
+    bullets: [
+      'Distraction-free, notebook-style rich text editor with contentEditable-based editing, formatting tools, Markdown shortcuts, slash commands, and keyboard shortcuts.',
+      'Client-side page management with autosave, tags, templates, pinning, trash/restore, full-text search, themes, and automatically generated document outlines.',
+      'Import and export support for Markdown, HTML, TXT, DOCX, DOC, and PDF, with browser-based image compression and localStorage persistence requiring no backend or account system.',
+      'Responsive React interface with focus mode, find-and-replace, command palette, mobile layout, and multiple customizable editor themes.',
+    ],
+    link: 'https://deshmukh-anurag-25.github.io/Scriptor/',
+  },
+  {
     name: 'Weather Station',
     stack: 'React · Weather API',
     status: 'complete',
